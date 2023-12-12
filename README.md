@@ -12,3 +12,9 @@ While the code might not be the prettiest, I prefer an honest representation of 
   ### ref2
   * https://www.youtube.com/watch?v=r3i3XE9H4uw
   * https://github.com/hyper-neutrino/advent-of-code/blob/main/2023/day10p2.py
+
+* day12-part2
+  ### ref1
+  * https://www.youtube.com/watch?v=g3Ms5e7Jdqo
+  * https://www.youtube.com/watch?v=GVcER1GavNQ (Unedited Solve)
+  * https://github.com/hyper-neutrino/advent-of-code/blob/main/2023/day12p2.py
