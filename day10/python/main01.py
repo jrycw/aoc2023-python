@@ -1,6 +1,6 @@
-from enum import Enum, auto  # noqa: F401
-from pathlib import Path  # noqa: F401
-from typing import assert_never  # noqa: F401
+from enum import Enum, auto
+from pathlib import Path
+from typing import assert_never
 
 
 class Direction(Enum):
@@ -83,13 +83,6 @@ class Sketch:
     def __repr__(self):
         cls_name = type(self).__name__
         return f"{cls_name}(max_x={self.max_x}, max_y={self.max_y})"
-
-
-def locate_s(sketch):
-    for y, line in enumerate(sketch):
-        for x, elem in enumerate(line):
-            if elem == "S":
-                return (x, y)
 
 
 def find_possible_symbols(direction):
