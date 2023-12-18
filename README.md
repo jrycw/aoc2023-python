@@ -22,3 +22,7 @@ While the code might not be the prettiest, I prefer an honest representation of 
 * day13
   ### ref1
   * https://www.youtube.com/watch?v=GYbjIvTQ_HA
+    
+* day17
+  ### ref1
+  * https://www.youtube.com/watch?v=2pDSooPLLkI
