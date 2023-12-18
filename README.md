@@ -26,3 +26,7 @@ While the code might not be the prettiest, I prefer an honest representation of 
 * day17
   ### ref1
   * https://www.youtube.com/watch?v=2pDSooPLLkI
+ 
+* day18
+  ### ref1
+  * https://www.youtube.com/watch?v=bGWK76_e-LM
