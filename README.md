@@ -34,3 +34,7 @@ While the code might not be the prettiest, I prefer an honest representation of 
 * day19-part2
   ### ref1
   * https://www.youtube.com/watch?v=3RwIpUegdU4
+
+* day20
+  ### ref1
+  * https://www.youtube.com/watch?v=lxm6i21O83k 
